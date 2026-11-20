@@ -1,0 +1,20 @@
+CHRISTMAS CELEBRATION 2026 – FESTIVE LUXURY EDITION
+
+Cac tep chinh:
+- index.html: website khach hang, giao dien Giang Sinh cao cap, tuyet roi, ong gia Noel va tuan loc.
+- admin.html: trang quan tri don hang, dich vu, qua tang, nhan vien va cau hinh; da go bo chuc nang thay nhac.
+- music/noel.mp3: nhac nen Giang Sinh duoc dong goi san.
+- sql/CAI-DAT-NHAC-NOEL.sql: tep SQL cu, khong can chay rieng de thay nhac.
+
+GIAO DIEN
+- Header do nhung, diem vang kim loai; hero dem Giang Sinh xanh thong, lop sang va chat lieu gia lap nhu vai/kim loai.
+- Tuyet roi, xe truot tuyet va tuan loc van duoc giu lai.
+
+NHAC NEN
+- Website tu thu phat nhac nen voi am luong mac dinh 24%.
+- Khach co the bam nut phat/tam dung hoac keo thanh am luong ve 0 de tat tieng.
+- Luu y quan trong: Safari/iPhone va nhieu trinh duyet chan tu dong phat am thanh co tieng neu khach chua cham vao trang. Website se tu thu phat; neu bi chan, khach chi can cham man hinh mot lan de bat nhac. Day la gioi han chinh sach trinh duyet, khong the ep buoc vuot qua bang ma website.
+- Admin khong con muc tai len/thay doi nhac. Nhac su dung co dinh tu tep music/noel.mp3.
+
+CACH SU DUNG
+Giai nen va tai len hosting nhu ban truoc. Giu nguyen cau truc thu muc, dac biet la thu muc music va tep noel.mp3. Cac tinh nang dat lich, don hang, Supabase va quan tri khac duoc giu nguyen.
